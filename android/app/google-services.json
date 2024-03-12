@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1017842887963",
+    "project_id": "prodox-bae03",
+    "storage_bucket": "prodox-bae03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017842887963:android:c6639c78543bd5f86ff7be",
+        "android_client_info": {
+          "package_name": "com.prodox.beta.prodox.prodox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017842887963-61oaptao85shsuvtajlgur1bt9to6kjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prodox.beta.prodox.prodox",
+            "certificate_hash": "1e95bc85bce08052252ca7033156de27938f7d68"
+          }
+        },
+        {
+          "client_id": "1017842887963-mj1f8b5ajrnii89dfa2p4ke1pdht8v9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9JOb_qZw3Z9ChLJtvi4jBfJCaFqWTK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017842887963-mj1f8b5ajrnii89dfa2p4ke1pdht8v9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017842887963-di608udf2chbne82av1cien4633avc9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prodox.beta.prodox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
